@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 """
-    lists all states from the database
+    A script that lists all states from the database hbtn_0e_0_usa
+    starting with capital letter N
     Username, password and database names are given as user args
 """
 
